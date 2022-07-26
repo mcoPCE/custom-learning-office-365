@@ -8,12 +8,12 @@
   ],
   "Categories": [
     {
-      "Id": "646b4eb4-32c0-4fdc-93fa-0ef895470b74",
+      "Id": "0989f6af-f694-483b-aab5-15a07449f6ec",
       "Name": "Get started",
       "Image": "",
       "TechnologyId": "",
       "SubjectId": "",
-      "Source": "Microsoft",
+      "Source": "PCE",
       "SubCategories": [ ]
     }
   ],
@@ -68,11 +68,8 @@
     }
   ],
   "Sources": [
-    "SOC",
-    "FastTrack",
-    "M365",
-    "Microsoft",
-    "LinkedIn"
+    "Remarcable",
+    "PCE"
   ],
   "Levels": [
     {
